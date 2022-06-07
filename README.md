@@ -25,7 +25,12 @@ All books that i've learned [you can see here](https://github.com/eduAlexandrPir
 
 ### ✏️ Courses
 
-- [Udemy profile](https://www.udemy.com/user/edualexandrpirogov/)
+- 📑 [Udemy profile](https://www.udemy.com/user/edualexandrpirogov/)
+
+### Training problem solving
+
+- 📗 [Hackerrank](https://www.hackerrank.com/eduPirogov)
+- 📕 [Codewars](https://www.codewars.com/users/eduAlexandrPirogov)
 <!--
 **eduAlexandrPirogov/eduAlexandrPirogov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
