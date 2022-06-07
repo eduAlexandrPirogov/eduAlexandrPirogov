@@ -1,24 +1,31 @@
 ### Hi there 👋
 
 # Intro
-[Main repo](https://github.com/eduAlexandrPirogov)
- 
-This is secondary repo. Main repo: 
 
-# 📘 What am i learning now
+This is secondary repo. Main repo: [Main repo](https://github.com/eduAlexandrPirogov)
+This is where I track the progress of everything I study.
+
+
+## 📘 What am i learning now
 - 🌀 C++. (Multithreading, STD, wxWidgets).
 - 💡 CMake.
 - 🎓 Discrete Math.
 - 🚚 GitLab. CI/CD.
 
-# 📈 What goals i want to reach
+## 📈 What goals i want to reach
 - 💯 Be usefull for the team
 - 💻 Become C++ dev.
 - 🚀 Be able to create massive applications. 
 
-# 📚 Books
+## How am i studying
 
-# ✏️ Courses
+### 📚 Books
+
+All books that i've learned [you can see here](https://github.com/eduAlexandrPirogov/books)
+
+### ✏️ Courses
+
+- [Udemy profile](https://www.udemy.com/user/edualexandrpirogov/)
 <!--
 **eduAlexandrPirogov/eduAlexandrPirogov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
