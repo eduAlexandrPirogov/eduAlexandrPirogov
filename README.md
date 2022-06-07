@@ -2,7 +2,7 @@
 
 # Intro
 
-This is secondary repo. Main repo: [Main repo](https://github.com/eduAlexandrPirogov)
+This is secondary repo. Main repo: [Main repo](https://github.com/AlexandrPirogov)
 This is where I track the progress of everything I study.
 
 
