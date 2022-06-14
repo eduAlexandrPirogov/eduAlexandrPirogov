@@ -7,7 +7,7 @@ This is where I track the progress of everything I study.
 
 
 ## 📘 What am i learning now
-- 🌀 C++. (Multithreading, STD, wxWidgets).
+- 🌀 C++. (Multithreading, STD, QT).
 - 💡 CMake.
 - 🎓 Discrete Math.
 - 🚚 GitLab. CI/CD.
