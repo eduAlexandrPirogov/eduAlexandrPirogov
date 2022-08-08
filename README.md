@@ -8,9 +8,7 @@ This is where I track the progress of everything I study.
 
 ## 📘 What am i learning now
 - 🌀 C++. (Computer Networking, QT).
-- 💡 CMake.
-- 🎓 Discrete Math.
-- 🚚 GitLab. CI/CD.
+- 💡 Computer networking
 
 ## 📈 What goals i want to reach
 - 💯 Be usefull for the team
